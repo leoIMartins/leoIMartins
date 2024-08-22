@@ -13,7 +13,7 @@ Tenho experiência prática relacionada a projetos de diversas áreas de negóci
 
 ## Linguagens de programação que já utilizei
 
-Java, Ruby, Javascript, C#, Python, VBScript.
+Java, C#, Ruby, Javascript, C#, Python, VBScript.
 
 ## Frameworks que já utilizei
 
