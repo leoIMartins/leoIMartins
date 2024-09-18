@@ -1,8 +1,4 @@
-Sou engenheiro de qualidade com mais de 5 anos de experiência em testes de software. Trabalhei em diversos níveis de teste: sistema, integração de API (REST e SOAP), interface de usuário (Desktop, Web e Mobile) e testes de aceite. Sou graduado em Sistemas de Informação pela FIAR e atualmente curso uma pós-graduação lato sensu em Engenharia de Qualidade e Teste de Software na PUC Minas.
-
-Tenho muita vivência em times ágeis, trabalhando integralmente com os frameworks Scrum e Kanban, e também com o modelo Spotify.
-
-Tenho experiência prática relacionada a projetos de diversas áreas de negócio: varejo, e-commerce, programa de recompensas, banco, telecomunicações e mineração.
+Engenheiro de Qualidade de Software com 6 anos de experiência consolidada em automação de testes, abrangendo uma ampla gama de tecnologias. Expertise em testes funcionais, de unidade, integração (API REST e SOAP), sistema (web, mobile e desktop) e aceite de usuário (UAT). Formado em Sistemas de Informação e atualmente cursando pós-graduação em Engenharia de Qualidade e Teste de Software pela PUC Minas. Experiência em projetos complexos e de alta visibilidade, tanto no mercado nacional quanto internacional, nos setores financeiro, saúde, telecomunicações, mineração, e-commerce, fidelização e monetização de dados. Sólido conhecimento em metodologias ágeis, com atuação em frameworks como Scrum, Kanban e o modelo Spotify, colaborando com times multidisciplinares para garantir a qualidade e eficiência nas entregas contínuas de software.
 
 ## Certificações
 
@@ -13,7 +9,7 @@ Tenho experiência prática relacionada a projetos de diversas áreas de negóci
 
 ## Linguagens de programação que já utilizei
 
-Java, C#, Ruby, Javascript, C#, Python, VBScript.
+Java, C#, Ruby, Javascript, Python, VBScript.
 
 ## Frameworks que já utilizei
 
